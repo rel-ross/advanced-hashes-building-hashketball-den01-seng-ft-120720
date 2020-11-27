@@ -16,7 +16,7 @@ def game_hash
         :blocks => "",
         :slam_dunks =>""},
         binding.pry
-        {:player_name=>"",
+        :player_name=>"",
         :number => "",
         :shoe => "",
         :points => "",
@@ -24,7 +24,7 @@ def game_hash
         :assists =>"",
         :steals =>"",
         :blocks => "",
-        :slam_dunks =>""}
+        :slam_dunks =>""
         ]
     },
     :away => {
