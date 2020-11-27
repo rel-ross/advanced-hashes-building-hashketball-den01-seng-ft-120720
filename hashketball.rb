@@ -15,7 +15,7 @@ def game_hash
         :steals =>"",
         :blocks => "",
         :slam_dunks =>""},
-        bdining.pry
+        binding.pry
         {:player_name=>"",
         :number => "",
         :shoe => "",
