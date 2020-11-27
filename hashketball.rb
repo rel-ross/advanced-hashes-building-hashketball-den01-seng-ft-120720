@@ -2,8 +2,8 @@
 def game_hash
   hashketball = {
     :home => {
-      :team_name =>{"Team Name"},
-      :colors => ["color1", "color2"],
+      :team_name =>{"Brooklyn Nets"},
+      :colors => ["Black", "White"],
       :players => [
         {:player_name=>"",
         :number => "",
@@ -17,8 +17,8 @@ def game_hash
         ]
     },
     :away => {
-      :team_name =>{"Team Name"},
-      :colors => ["color1", "color2"],
+      :team_name =>{"Charlotte Hornets"},
+      :colors => ["Turquoise", "Purple"],
       :players => [
         {:player_name=>"",
         :number => "",
