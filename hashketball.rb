@@ -1,7 +1,7 @@
 # Write your code here!
 def game_hash
   hashketball = {
-    :home =>{
+    :home => {
       :team_name =>{"Team Name"},
       :colors => ["color1", "color2"],
       :players => [
@@ -16,7 +16,7 @@ def game_hash
         :slam_dunks =>""}
         ]
     },
-    :away=> {
+    :away => {
       :team_name =>{"Team Name"},
       :colors => ["color1", "color2"],
       :players => [
